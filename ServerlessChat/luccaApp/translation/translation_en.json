@@ -1,0 +1,17 @@
+﻿{
+  "LANDING_PAGE" : "In order to begin, you can join an existing room or open a new one !",
+  "OFFERER_1" : "This is your 'offer', your contact will need it to find you through the web. Please, send it to him via e-mail (or SMS)",
+  "OFFERER_2" : "He will send you back an 'answer'. Please, paste it here",
+  "ANSWERER_1" : "You should receive an 'offer' from the host. Please, paste it here.",
+  "ANSWERER_2" : "This is your 'answer', your contact will need it to find you through the web. Please, send it to him via e-mail (or SMS)",
+  "CONNECTION_WAIT" : "Waiting for remote user to connect...",
+  "SEND" : "Send",
+  "CLOSE": "Close room",
+  "SENT" : "Done, I sent it !",
+  "PASTED" : "Done, I pasted it !",
+  "GO" : "Let's Chat",
+  "OPEN": "Open room",
+  "JOIN": "Join room",
+  "TITLE": "Serverless chat",
+  "LANG":  "en"
+}

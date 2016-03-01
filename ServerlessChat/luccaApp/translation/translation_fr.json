@@ -1,0 +1,17 @@
+﻿{
+  "LANDING_PAGE" : "Pour commencer, vous pouvez rejoindre une conversation ou en démarrer une nouvelle",
+  "OFFERER_1" : "Voici votre 'offre', votre contact en aura besoin afin de vous retrouver à travers internet. Veuillez lui envoyer via email (or SMS)",
+  "OFFERER_2" : "Il va vous envoyer une 'réponse' en retour. Veuillez la coller ici.",
+  "ANSWERER_1" : "Vous devriez recevoir une 'offre' de l'hôte de la conversation. Veuillez la coller ici.",
+  "ANSWERER_2" : "Voici votre 'réponse', votre contact en aura besoin afin de vous retrouver à travers internet. Veuillez lui envoyer via email (or SMS)",
+  "CONNECTION_WAIT" : "Connexion en cours...",
+  "SEND" : "Envoyer",
+  "CLOSE": "Fermer la conversation",
+  "SENT" : "C'est envoyé !",
+  "PASTED" : "C'est collé !",
+  "GO" : "Lancer la conversation",
+  "OPEN": "Démarrer une conversation",
+  "JOIN": "Rejoindre une conversation",
+  "TITLE": "Chat sans serveur",
+  "LANG":  "fr"
+}

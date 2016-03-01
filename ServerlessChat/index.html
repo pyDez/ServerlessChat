@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link data-require="bootstrap-css@*" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body ng-app="luccaApp" data-ng-controller="indexController">
+    <h3 class="text-center">{{translate.translations.TITLE}} </h3>
+    <div ng-view="" ng-cloak=""></div>
+    <!-- 3rd party libraries -->
+    <script data-require="angular.js@1.5.0" data-semver="1.5.0" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.js"></script>
+    <script data-require="angular-route@*" data-semver="1.4.8" src="https://code.angularjs.org/1.4.8/angular-route.js"></script>
+    <script src="https://webrtc.github.io/samples/src/js/adapter.js"></script>
+    <script src="scripts/common.js"></script>
+    <!-- Load app main script -->
+    <script src="luccaApp/luccaApp.js"></script>
+    <!-- Load services -->
+    <script src="luccaApp/translation/translationService.js"></script>
+    <!-- Load controllers -->
+    <script src="luccaApp/index/indexController.js"></script>
+    <script src="luccaApp/chat/chatController.js"></script>
+</body>
+</html>

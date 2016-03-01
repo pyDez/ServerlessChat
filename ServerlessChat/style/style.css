@@ -1,0 +1,27 @@
+﻿/* Styles go here */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.chatFlow {
+  background: #333;
+  padding: 0;
+}
+
+.aLittleMarginTop {
+  margin-top: 1em;
+}
+
+.aLittleMarginBottom {
+  margin-bottom: 1em;
+}
+
+.loader{
+     position: absolute;
+    top: 25%;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
